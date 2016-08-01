@@ -1,6 +1,11 @@
 ###################
 # compiled source #
 ###################
+
+#####ADDED BY ME###
+*.js
+*.css
+
 *.com
 *.class
 *.dll
